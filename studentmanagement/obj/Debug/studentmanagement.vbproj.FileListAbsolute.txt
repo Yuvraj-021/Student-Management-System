@@ -1,0 +1,15 @@
+C:\Users\admin\AppData\Local\Temporary Projects\studentmanagement\bin\Debug\studentmanagement.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\bin\Debug\studentmanagement.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\Debug\studentmanagement.addrec.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\Debug\studentmanagement.editrec.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\Debug\studentmanagement.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\Debug\studentmanagement.Form2.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\Debug\studentmanagement.main_menu.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\Debug\studentmanagement.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\Debug\studentmanagement.vbproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\bin\Debug\studentmanagement.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\bin\Debug\studentmanagement.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\bin\Debug\studentmanagement.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\Debug\studentmanagement.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\Debug\studentmanagement.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\Debug\studentmanagement.pdb

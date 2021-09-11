@@ -1,0 +1,16 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\bin\x64\Debug\studentmanagement.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\bin\x64\Debug\studentmanagement.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\bin\x64\Debug\studentmanagement.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\bin\x64\Debug\studentmanagement.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\x64\Debug\studentmanagement.addrec.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\x64\Debug\studentmanagement.editrec.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\x64\Debug\studentmanagement.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\x64\Debug\studentmanagement.Form2.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\x64\Debug\studentmanagement.main_menu.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\x64\Debug\studentmanagement.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\x64\Debug\studentmanagement.vbproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\x64\Debug\studentmanagement.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\x64\Debug\studentmanagement.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\x64\Debug\studentmanagement.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\x64\Debug\studentmanagement.viewrec.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\studentmanagement\studentmanagement\obj\x64\Debug\studentmanagement.deleterec.resources
